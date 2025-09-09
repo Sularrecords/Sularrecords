@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 A modern, responsive portfolio website showcasing professional services in music production and video editing. This single-page application features dedicated sections for each service, a portfolio area, and a contact form, built using HTML and Tailwind CSS
 
 <!--
 **Sularrecords/Sularrecords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
